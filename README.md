@@ -1,0 +1,39 @@
+# codewars-php
+
+[![Codewars](https://www.codewars.com/users/toushimaa/badges/large)](https://www.codewars.com/users/toushimaa)
+
+---
+
+## About
+This repository is where I share my progress for solving Codewars PHP problems.
+
+Each solution file may include comments walking through my thought process and may contain multiple solutions/approaches
+
+---
+
+## Progress
+
+| Kyu | Solved |
+|-----|--------|
+| 8 kyu | 1 |
+| **Total** | **1** |
+
+---
+
+## Solutions
+
+### 8 kyu
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 1 | [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | [sentence_smash.php](./8kyu/sentence_smash.php) |
+
+---
+
+## 🗂️ Structure
+```
+codewars-php/
+├── 8-kyu/
+│   └── sentence_smash.php
+└── README.md
+```
