@@ -1,18 +1,5 @@
 <?php
 
-/**
- * Kata:    Sentence Smash
- * Kyu:     8
- * Link:    https://www.codewars.com/kata/53dc23c68a0c93699800041d
- *
- * Description:
- * Write a function that takes an array of words and smashes them together
- * into a sentence using spaces. Ignore any empty string values being passed.
- *
- * Example:
- *   ['hello', 'world'] => 'hello world'
- */
-
 function smash(array $words): string
 {
     // Note: I intentionally uncommented dead return statements for syntax highlighting and color coding
