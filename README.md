@@ -15,8 +15,8 @@ Each solution file may include comments walking through my thought process and m
 
 | Kyu | Solved |
 |-----|--------|
-| 8 kyu | 2 |
-| **Total** | **2** |
+| 8 kyu | 3 |
+| **Total** | **3** |
 
 ---
 
@@ -28,6 +28,7 @@ Each solution file may include comments walking through my thought process and m
 |---|---------|----------|
 | 1 | [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d) | [sentence_smash.php](./8-kyu/sentence_smash.php) |
 | 2 | [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083) | [opposites_attract.php](./8-kyu/opposites_attract.php) |
+| 3 | [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [returning_strings.php](./8-kyu/returning_strings.php) |
 
 ---
 
@@ -35,7 +36,8 @@ Each solution file may include comments walking through my thought process and m
 ```
 codewars-php/
 ├── 8-kyu/
-│   └── sentence_smash.php
-│   └── opposites_attract.php
+│   ├── sentence_smash.php
+│   ├── opposites_attract.php
+│   └── returning_strings.php
 └── README.md
 ```
