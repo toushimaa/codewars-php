@@ -15,8 +15,8 @@ Each solution file may include comments walking through my thought process and m
 
 | Kyu | Solved |
 |-----|--------|
-| 8 kyu | 4 |
-| **Total** | **4** |
+| 8 kyu | 5 |
+| **Total** | **5** |
 
 ---
 
@@ -30,6 +30,7 @@ Each solution file may include comments walking through my thought process and m
 | 2 | [Opposites Attract](https://www.codewars.com/kata/555086d53eac039a2a000083) | [opposites_attract.php](./8-kyu/opposites_attract.php) |
 | 3 | [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4) | [returning_strings.php](./8-kyu/returning_strings.php) |
 | 4 | [Keep up the hoop](https://www.codewars.com/kata/55cb632c1a5d7b3ad0000145) | [keep_up_the_hoop.php](./8-kyu/keep_up_the_hoop.php) |
+| 5 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/) | [fake_binary.php](./8-kyu/fake_binary.php) |
 
 ---
 
@@ -41,5 +42,6 @@ codewars-php/
 │   ├── opposites_attract.php
 │   ├── returning_strings.php
 │   └── keep_up_the_hoop.php
+│   └── fake_binary.php
 └── README.md
 ```
