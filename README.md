@@ -15,8 +15,8 @@ Each solution file may include comments walking through my thought process and m
 
 | Kyu | Solved |
 |-----|--------|
-| 8 kyu | 7 |
-| **Total** | **7** |
+| 8 kyu | 8 |
+| **Total** | **8** |
 
 ---
 
@@ -33,6 +33,7 @@ Each solution file may include comments walking through my thought process and m
 | 5 | [Fake Binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/) | [fake_binary.php](./8-kyu/fake_binary.php) |
 | 6 | [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/) | [MakeUpperCase.php](./8-kyu/MakeUpperCase.php) |
 | 7 | [Hello World](https://www.codewars.com/kata/523b4ff7adca849afe000035/) | [hello_world.php](./8-kyu/hello_world.php) |
+| 8 | [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014/) | [third_angle_triangle.php](./8-kyu/third_angle_triangle.php) |
 
 ---
 
@@ -46,6 +47,7 @@ codewars-php/
 │   ├── keep_up_the_hoop.php
 │   ├── fake_binary.php
 │   ├── MakeUpperCase.php
-│   └── hello_world.php
+│   ├── hello_world.php
+│   └── third_angle_triangle.php
 └── README.md
 ```
