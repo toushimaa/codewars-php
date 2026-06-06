@@ -15,8 +15,8 @@ Each solution file may include comments walking through my thought process and m
 
 | Kyu | Solved |
 |-----|--------|
-| 8 kyu | 8 |
-| **Total** | **8** |
+| 8 kyu | 9 |
+| **Total** | **9** |
 
 ---
 
@@ -34,6 +34,7 @@ Each solution file may include comments walking through my thought process and m
 | 6 | [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/) | [MakeUpperCase.php](./8-kyu/MakeUpperCase.php) |
 | 7 | [Hello World](https://www.codewars.com/kata/523b4ff7adca849afe000035/) | [hello_world.php](./8-kyu/hello_world.php) |
 | 8 | [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014/) | [third_angle_triangle.php](./8-kyu/third_angle_triangle.php) |
+| 9 | [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/) | [bool_to_string.php](./8-kyu/bool_to_string.php) |
 
 ---
 
@@ -48,6 +49,7 @@ codewars-php/
 │   ├── fake_binary.php
 │   ├── MakeUpperCase.php
 │   ├── hello_world.php
-│   └── third_angle_triangle.php
+│   ├── third_angle_triangle.php
+│   └── bool_to_string.php
 └── README.md
 ```
