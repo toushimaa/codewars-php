@@ -15,8 +15,8 @@ Each solution file may include comments walking through my thought process and m
 
 | Kyu | Solved |
 |-----|--------|
-| 8 kyu | 9 |
-| **Total** | **9** |
+| 8 kyu | 10 |
+| **Total** | **10** |
 
 ---
 
@@ -35,6 +35,7 @@ Each solution file may include comments walking through my thought process and m
 | 7 | [Hello World](https://www.codewars.com/kata/523b4ff7adca849afe000035/) | [hello_world.php](./8-kyu/hello_world.php) |
 | 8 | [Third Angle of a Triangle](https://www.codewars.com/kata/5a023c426975981341000014/) | [third_angle_triangle.php](./8-kyu/third_angle_triangle.php) |
 | 9 | [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd/) | [bool_to_string.php](./8-kyu/bool_to_string.php) |
+| 10 | [Grasshopper - Grade book](https://www.codewars.com/kata/55cbd4ba903825f7970000f5/) | [grade_book.php](./8-kyu/grade_book.php) |
 
 ---
 
@@ -50,6 +51,7 @@ codewars-php/
 │   ├── MakeUpperCase.php
 │   ├── hello_world.php
 │   ├── third_angle_triangle.php
-│   └── bool_to_string.php
+│   ├── bool_to_string.php
+│   └── grade_book.php
 └── README.md
 ```
