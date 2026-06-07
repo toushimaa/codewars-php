@@ -15,12 +15,19 @@ Each solution file may include comments walking through my thought process and m
 
 | Kyu | Solved |
 |-----|--------|
+| 7 kyu | 1 |
 | 8 kyu | 11 |
-| **Total** | **11** |
+| **Total** | **12** |
 
 ---
 
 ## Solutions
+
+### 7 kyu
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 1 | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e/) | [disemvowel_trolls.php](./7-kyu/disemvowel_trolls.php) |
 
 ### 8 kyu
 
@@ -43,6 +50,8 @@ Each solution file may include comments walking through my thought process and m
 ## 🗂️ Structure
 ```
 codewars-php/
+├── 7-kyu/
+│   └── disemvowel_trolls.php
 ├── 8-kyu/
 │   ├── sentence_smash.php
 │   ├── opposites_attract.php
