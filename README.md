@@ -15,13 +15,20 @@ Each solution file may include comments walking through my thought process and m
 
 | Kyu | Solved |
 |-----|--------|
+| 6 kyu | 1 |
 | 7 kyu | 1 |
 | 8 kyu | 11 |
-| **Total** | **12** |
+| **Total** | **13** |
 
 ---
 
 ## Solutions
+
+### 6 kyu
+
+| # | Problem | Solution |
+|---|---------|----------|
+| 1 | [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005/) | [roman_numerals_decoder.php](./6-kyu/roman_numerals_decoder.php) |
 
 ### 7 kyu
 
@@ -50,6 +57,8 @@ Each solution file may include comments walking through my thought process and m
 ## 🗂️ Structure
 ```
 codewars-php/
+├── 6-kyu/
+│   └── roman_numerals_decoder.php
 ├── 7-kyu/
 │   └── disemvowel_trolls.php
 ├── 8-kyu/
